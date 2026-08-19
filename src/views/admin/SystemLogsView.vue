@@ -1,0 +1,1 @@
+<template><div class="space-y-4"><h1 class="text-xl font-bold text-white">កំណត់ហេតុប្រព័ន្ធ</h1><div class="bg-white/5 border border-white/10 rounded-xl p-8 text-center text-white/40 text-sm">នឹងមានឆាប់ៗនេះ</div></div></template>
